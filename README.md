@@ -1,0 +1,2 @@
+# PHP Notice: A non well formed numeric value encountered
+This repository demonstrates a common PHP error: "Notice: A non well formed numeric value encountered".  The error arises when a non-numeric string is encountered during an arithmetic operation, specifically when trying to add '4a' to the sum. This notice does not halt script execution; however, it indicates a potential logic error. The solution involves rigorous input validation.
